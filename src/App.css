@@ -1,0 +1,22 @@
+.split {
+  display: flex;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 5%;
+}
+.blue {
+  background-color: blue !important;
+}
+
+.circle {
+  position: absolute;
+  left: 185px;
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border-radius: 50%;
+}
